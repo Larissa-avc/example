@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Larissa vera"
 output: 
   html_document:
     number_sections: true
@@ -15,7 +15,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
-  
+  I attended highschool at highland high school and graduated in 2018. English has always been easier for me math is a challange. In english i received an A and in math i recived a D.
 ### my answer     
   
 
